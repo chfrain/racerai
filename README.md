@@ -30,5 +30,3 @@
 <p class="p2"><span class="s1">This policy is effective as of 2024-09-18</span></p>
 <p class="p2"><span class="s1"><b>Contact Us</b></span></p>
 <p class="p2"><span class="s1">If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sermsak_rod@racerlighting.com.</span></p>
-</body>
-</html>
